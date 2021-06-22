@@ -1,0 +1,1 @@
+{"inputUnits":[64,64,4],"outputUnits":2,"inputs":{"image":{"dtype":"array","min":3,"max":255}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["No Mask !!! Wear It","Mask..keep wearing it"],"legend":{"No Mask !!! Wear It":[1,0],"Mask..keep wearing it":[0,1]}}},"isNormalized":true}
