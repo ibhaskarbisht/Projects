@@ -1,0 +1,6 @@
+1.Download SDL/SDL2 library from given foo link.
+2.g++ yourFileName.cpp -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -w -Wl,-subsystem,windows -lmingw32 -lSDL2main -lSDL2 -o yourFileName
+3.Write your program file name in place of yourFileName.
+4. You can directly use my Executable file as well.
+NOTE - Make sure that you have already set all necessary environment variables for minGW etc.
+
